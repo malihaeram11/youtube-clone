@@ -1,1 +1,1 @@
- This project is a clone of YouTube, built with (mention the technologies or frameworks used, such as React, Node.js, and MongoDB). It replicates the core features of YouTube, allowing users to upload, view, and share videos, as well as comment and like videos
+ This project is a clone of YouTube, built with (mention the technologies or frameworks used, such as React, Node.js, and MongoDB). It replicates the core features of YouTube, allowing users to upload, view, and share videos, as well as comment and like videos.
